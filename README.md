@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently Learning : React && Spring: Boot<br>Working On: A basic logistic regression model <br>predicting Teamfight Tactics win rates.<br><br>Data Science - Statistics && Computer Science @ RU
+Currently Learning : React && Spring: Boot<br>Working On: A basic logistic regression model <br>predicting Teamfight Tactics win rates, AND Petal <br><br>Data Science - Statistics && Computer Science @ RU
 
 
 ## 🌐 Socials:
