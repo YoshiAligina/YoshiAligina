@@ -7,8 +7,6 @@
 
 - 📝 I write articles on [https://medium.com/@yoshialigina](https://medium.com/@yoshialigina)
 
-- 💬 Ask me about **bayesian epistemology**
-
 - 📫 How to reach me **yoshialigina@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
