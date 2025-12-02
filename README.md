@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yoshita !</h1>
-<h3 align="center">A Computer Science , Data Science-Statistics, & Philosophy Student @ Rutgers </h3>
-<h3 align="center">Currently:  Data Analyst Intern @ Quest Diagnostics</h3>
-<h3 align="center">Formerly: AI/ML Fellow @ Allstate 2024,Break Through Tech Class of 2024-2025 @ Cornell Tech </h3>
+<h3 align="center">A Computer Science , Data Science, Statistics, & Philosophy Student @ Rutgers </h3>
+<h3 align="center">Currently: Incoming DMP @ Bloomberg</h3>
+<h3 align="center">Formerly: Data Analyst Intern @ Quest Diagnostics, AI/ML Fellow @ Allstate 2024,Break Through Tech Class of 2024-2025 @ Cornell Tech </h3>
 
 
 
